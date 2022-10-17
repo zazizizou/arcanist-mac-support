@@ -3,6 +3,8 @@ It allows you to interact with Phabricator installs to send code for review,
 download patches, transfer files, view status, make API calls, and various other
 things. You can read more in the [User Guide](https://secure.phabricator.com/book/phabricator/article/arcanist/)
 
+Phabricator is no longer actively maintained, and no longer accepting contributions. This fork fixes an issue under macOS. 
+
 For more information about Phabricator, see http://phabricator.org/.
 
 **LICENSE**
